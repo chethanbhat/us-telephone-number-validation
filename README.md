@@ -2,17 +2,12 @@
 A Javascript project which validates the known formats of US Telephone Number. 
 
   Accepted Formats
-    555-555-5555 - Space contains -  
-    
-    (555)555-5555 - Space contains - or brackets  
-    
-    (555) 555-5555 - check if there is opening bracket and closing bracket.  
-    
-    555 555 5555  
-    
-    5555555555  
-    
-    1 555 555 5555  
+    555-555-5555 - Space contains -    
+    (555)555-5555 - Space contains - or brackets    
+    (555) 555-5555 - check if there is opening bracket and closing bracket.    
+    555 555 5555    
+    5555555555    
+    1 555 555 5555    
     
     
   Test Cases
