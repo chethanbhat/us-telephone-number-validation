@@ -1,7 +1,7 @@
 # us-telephone-number-validation
 A Javascript project which validates the known formats of US Telephone Number. 
 
-  Accepted Formats
+  Accepted Formats  
     555-555-5555   
     (555)555-5555  
     (555) 555-5555  
